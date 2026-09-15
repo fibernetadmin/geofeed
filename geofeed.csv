@@ -1,3 +1,6 @@
-# RFC 8805 Geofeed 
+# RFC 8805 Geofeed
+# City of Marshall / Marshall Fibernet — AS397797, ARIN Org ID CM-1544
+# Contact: MShillinger@cityofmarshall.com
 # prefix,country_code,region_code,city,postal
-149.36.242.0/23,US,US-MI,Marshall,49224
+149.36.242.0/23,US,US-MI,Marshall,49068
+154.21.208.0/23,US,US-MI,Marshall,49068
